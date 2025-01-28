@@ -82,7 +82,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DevKrishnasai/luminalearn.git
+git clone https://github.com/ManchalaSrinithin/luminalearn.git
 cd luminalearn
 ```
 
