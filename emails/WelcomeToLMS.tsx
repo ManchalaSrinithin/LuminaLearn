@@ -44,7 +44,7 @@ export const WelcomeToLMS = ({ name, role }: WelcomeToLMSProps) => {
             />
           </Section>
           <Section style={content}>
-            <Heading style={heading}>Welcome to YourLMS, {name}!</Heading>
+            <Heading style={heading}>Welcome to LuminaLearn, {name}!</Heading>
             <Text style={subheading}>
               Your journey to {isStudent ? "learning" : "teaching"} excellence
               starts here.

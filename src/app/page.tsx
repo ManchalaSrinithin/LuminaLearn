@@ -67,11 +67,11 @@ export default function Home() {
             <div className="flex justify-center">
               <p className="font-display text-5xl font-bold tracking-[-0.02em] text-white sm:text-6xl md:text-7xl mb-6 text-center max-w-4xl">
                 <SparklesText
-                  text="YourLMS"
+                  text="LuminaLearn"
                   className="inline-block mr-2 text-white"
                 />
                 <br />
-                Redefining Education for the Connected World
+                Empowering Minds, Shaping the Future of Learning
               </p>
             </div>
             <p className="mt-6 text-xl  max-w-3xl mx-auto">
@@ -139,7 +139,7 @@ export default function Home() {
           }}
           className="mt-8 bg-gradient-to-br from-slate-300 to-slate-500 py-4 bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl"
         >
-          Elevate Your Teaching <br /> Amplify Your Learning
+          Transform Teaching Excellence <br /> Inspire Lifelong Learning
         </motion.h1>
       </LampContainer>
 
@@ -163,7 +163,7 @@ export default function Home() {
                 expertise.&quot;
               </p>
               <p className="text-blue-400 font-semibold">
-                - Dr. J. Manoj Kumar, Online Instructor
+                - Dr. M. Sri Nithin, Online Instructor
               </p>
             </div>
             <div className="bg-gray-800 rounded-lg p-8 shadow-xl">
@@ -174,7 +174,7 @@ export default function Home() {
                 employers.&quot;
               </p>
               <p className="text-blue-400 font-semibold">
-                - L. Vignesh , YourLMS User
+                - M. Yashwanth, YourLMS User
               </p>
             </div>
           </div>
@@ -217,7 +217,7 @@ export default function Home() {
       </section>
 
       <div className="flex justify-center items-center gap-5 pb-10">
-        <span>© 2024 YourLMS. All rights reserved.</span>
+        <span>© 2025 LuminaLearn. All rights reserved.</span>
       </div>
     </div>
   );

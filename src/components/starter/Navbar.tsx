@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="fixed w-full z-10 bg-black/80 backdrop-blur-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-14 flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          YourLMS
+        LuminaLearn
         </Link>
         <div className="flex items-center justify-between">
           {links.map((link) => (

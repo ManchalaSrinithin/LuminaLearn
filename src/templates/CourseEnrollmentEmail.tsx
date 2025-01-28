@@ -96,7 +96,7 @@ export const CourseEnrollmentEmail = ({
               color: "rgb(0,0,0, 0.7)",
             }}
           >
-            © {new Date().getFullYear()} | LMS | All Rights Reserved
+            © {new Date().getFullYear()} | LuminaLearn | All Rights Reserved
           </Text>
         </Container>
       </Body>

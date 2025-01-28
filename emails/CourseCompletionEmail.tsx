@@ -113,7 +113,7 @@ export const CourseCompletionEmail = ({
             />
           </Section>
           <Text style={copyright}>
-            © {new Date().getFullYear()} YourLMS | All Rights Reserved
+            © {new Date().getFullYear()} LuminaLearn | All Rights Reserved
           </Text>
         </Container>
       </Body>

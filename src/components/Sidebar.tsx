@@ -138,7 +138,7 @@ const Sidebar = async () => {
               <IoLogoWindows size={30} />
             </div>
             <span className="sidebar-label whitespace-nowrap opacity-0 transition-opacity duration-300 text-3xl font-bold">
-              LMS
+            LuminaLearn
             </span>
           </div>
         </Link>

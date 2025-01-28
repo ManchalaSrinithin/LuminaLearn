@@ -131,7 +131,7 @@ export const MobileSidebar = ({
               animate={{ opacity: 1 }}
               className="font-bold text-black dark:text-white whitespace-pre"
             >
-              YourLMS
+              LuminaLearn
             </motion.span>
           </Link>
           <IconMenu2

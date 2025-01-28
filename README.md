@@ -1,7 +1,6 @@
+# LuminaLearn - Advanced Learning Management System
 
-# YourLMS - Advanced Learning Management System
-
-Welcome to YourLMS! This repository contains the code for a comprehensive Learning Management System built with Next.js, Tailwind CSS, Shadcn UI, React Video, Prisma ORM, PostgreSQL, and Clerk.
+Welcome to LuminaLearn! This repository contains the code for a comprehensive Learning Management System built with Next.js, Tailwind CSS, Shadcn UI, React Video, Prisma ORM, PostgreSQL, and Clerk.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -13,14 +12,14 @@ Welcome to YourLMS! This repository contains the code for a comprehensive Learni
 
 ## Introduction
 
-YourLMS is designed to provide a seamless learning experience for both teachers and students. The platform offers a range of features to facilitate course creation, enrollment, and completion.
+LuminaLearn is designed to provide a seamless learning experience for both teachers and students. The platform offers a range of features to facilitate course creation, enrollment, and completion.
 
 ## Features
 
 ### User Roles
 - Choose between student and teacher roles during signup
 - Teachers can create courses, publish content, issue certifications, and earn from course sales
-- Students can enroll in courses (free or paid) and complete them and get certificates
+- Students can enroll in courses (free or paid), complete them, and get certificates
 
 ### Course Management
 - Teachers can access Course Studio to customize course structure
@@ -83,8 +82,8 @@ To get a local copy up and running, follow these simple steps.
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/DevKrishnasai/lms.git
-cd lms
+git clone https://github.com/DevKrishnasai/luminalearn.git
+cd luminalearn
 ```
 
 ### Install Dependencies
@@ -115,7 +114,7 @@ To start using the application, navigate to `http://localhost:3000` in your brow
 
 ## Project Structure
 ```
-YourLMS/
+LuminaLearn/
 ├── prisma/              # Prisma schema and migrations
 ├── public/              # Public assets
 ├── src/
@@ -125,3 +124,4 @@ YourLMS/
 │   └── ...              # Other directories and files
 └── README.md            # Project documentation
 ```
+

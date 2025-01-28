@@ -54,7 +54,7 @@ export const WelcomeToLMS = ({
                   Hi {studentFirstName},
                 </Heading>
                 <Text style={paragraph}>
-                  Welcome to our Learning Management System (LMS)!
+                  Welcome to our Learning Management System (LuminaLearn LMS)!
                 </Text>
                 <Text style={paragraph}>
                   To access the portal, please use your Google account
@@ -91,7 +91,7 @@ export const WelcomeToLMS = ({
               color: "rgb(0,0,0, 0.7)",
             }}
           >
-            © {new Date().getFullYear()} | LMS | All Rights Reserved
+            © {new Date().getFullYear()} | LuminaLearn | All Rights Reserved
           </Text>
         </Container>
       </Body>
